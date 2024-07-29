@@ -1,1 +1,55 @@
+/* Estilização para o cabeçalho (header) */
+header {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+    margin: 0%;
+}
 
+/* Estilização para a navegação (nav) dentro do cabeçalho */
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333;
+}
+
+/* Estilização para o body (cor de fundo ) */
+body {
+    background-color: rgb(53, 145, 145);
+}
+
+/* Estilização para o corpo principal (main) */
+main {
+    max-w/* Estilização para o cabeçalho (header) */
+    header {
+        background-color: #f0f0f0;
+        padding: 10px;
+        text-align: center;
+        margin: 0%;
+    }
+    
+    /* Estilização para a navegação (nav) dentro do cabeçalho */
+    nav {
+        display: flex;
+        justify-content: center;
+    }
+    
+    nav a {
+        margin: 0 10px;
+        text-decoration: none;
+        color: #333;
+    }
+    
+    /* Estilização para o body (cor de fundo ) */
+    body {
+        background-color: rgb(53, 145, 145);
+    }
+    
+    /* Estilização para o corpo principal (main) */
+    main {
+        max-w
